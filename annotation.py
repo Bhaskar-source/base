@@ -7,7 +7,7 @@ from tqdm import tqdm
 '''
 Raw annotation in format [ClassName Xmin Ymin Xmax Ymax]
 Keep all the raw annotation images,texts and classes.txt in a particular folder and pass the location in root
-Make another folder where all the images and YOLO format annotations will store and pass the location in store  
+Make another folder where all the images and YOLO format annotations will be stored and pass the location in store  
 '''
 
 
